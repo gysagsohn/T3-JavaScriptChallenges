@@ -1,0 +1,12 @@
+{
+  "name": "t3-javascriptchallenges",
+  "version": "1.0.0",
+  "description": "Welcome to my repository for weekly coding challenge solutions. These challenges are part of my bootcamp, and I've finally found the time to work on them since transitioning to part-time work.",
+  "main": "Challenge2_LengthofLastWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
