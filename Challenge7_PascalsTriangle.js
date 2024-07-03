@@ -46,10 +46,10 @@ function printPascalsTriangle(triangle) {
     });
 }
 
-// Example usage
-let numRows1 = 5;
-let triangle1 = generate(numRows1);
-printPascalsTriangle(triangle1); // Output: 
+// // Example usage
+// let numRows1 = 5;
+// let triangle1 = generate(numRows1);
+// printPascalsTriangle(triangle1); // Output: 
 
 /*
 binomial coefficients
