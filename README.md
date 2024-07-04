@@ -367,7 +367,7 @@ var convertToTitle = function(columnNumber) {
 ```
 
 # JavaScript Challenge 10. First Bad Version
-https://leetcode.com/problems/first-bad-version/
+
 
 You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 
@@ -421,3 +421,34 @@ var solution = function(isBadVersion) {
     };
 };
 ```
+
+# JavaScript Challenge 11. Palindrome Number
+https://leetcode.com/problems/palindrome-number/description/
+
+Given an integer x, return true if x is a palindrome , and false otherwise.
+
+palindrome mean a word, phrase, or sequence that reads the same backwards as forwards,
+
+Example 1:
+
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+Example 2:
+
+Input: x = -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+Example 3:
+
+Input: x = 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+ 
+
+Constraints:
+
+-231 <= x <= 231 - 1
+ 
+
+Follow up: Could you solve it without converting the integer to a string?
