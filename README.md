@@ -537,7 +537,7 @@ var romanToInt = function(s) {
 };
 
 # JavaScript Challenge 14. Top K Frequent Elements
-
+https://leetcode.com/problems/top-k-frequent-elements/description/
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
  
@@ -570,3 +570,21 @@ Follow up: Your algorithm's time complexity must be better than O(n log n), wher
 var topKFrequent = function(nums, k) {
     
 };
+
+# JavaScript Challenge 15. Number of 1 Bits
+https://leetcode.com/problems/number-of-1-bits/description/
+
+# JavaScript Challenge 16. Sum in a Matrix
+https://leetcode.com/problems/sum-in-a-matrix/description/
+
+# JavaScript Challenge 17. Count Negative Numbers in a Sorted Matrix
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+
+# JavaScript Challenge 18. Longest Palindromic Substring
+https://leetcode.com/problems/longest-palindromic-substring/description/
+
+# JavaScript Challenge 19. Plus One
+https://leetcode.com/problems/plus-one/description/
+
+# JavaScript Challenge 20. Contains Duplicate
+https://leetcode.com/problems/contains-duplicate/description/
